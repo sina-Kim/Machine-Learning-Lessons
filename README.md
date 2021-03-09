@@ -3,6 +3,7 @@
 - 머신러닝을 위한 선형대수학
 - 머신러닝을 위한 확률통계
 - [pattern recognition and machine learning](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/)
+- [모두의 딥러닝 개정 2판](https://github.com/gilbutITbook/080228), **./everyones-deeplearning**
 
 # 강의계획서
 ## 머신러닝 (EL3047-01)
